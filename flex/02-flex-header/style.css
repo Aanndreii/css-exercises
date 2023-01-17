@@ -5,6 +5,7 @@
   flex: auto;
   justify-content: space-between;
   align-items: center;
+  padding: 10px;
 }
 
 .logo {
@@ -21,6 +22,7 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 10px;
 }
 
 a {
