@@ -30,6 +30,10 @@ img {
   flex-wrap: wrap;
 }
 
+div .text {
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
