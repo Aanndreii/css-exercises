@@ -62,3 +62,10 @@ ul {
   align-items: center;
   gap: 16px;
 }
+
+.right-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 16px;
+}
