@@ -75,3 +75,8 @@ button.cancel {
   display: flex;
   align-items: center;
 }
+
+.header {
+  font-size: large;
+  font-weight: bold;
+}
