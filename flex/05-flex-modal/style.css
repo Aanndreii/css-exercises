@@ -80,3 +80,9 @@ button.cancel {
   font-size: large;
   font-weight: bold;
 }
+
+.right-element {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
