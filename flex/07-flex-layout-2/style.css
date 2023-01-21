@@ -22,6 +22,8 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  width: 300px;
+  flex-shrink: 0;
 }
 
 .card {
